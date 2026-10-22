@@ -194,7 +194,7 @@ export const ContactSection: React.FC = () => {
               </a>
 
               <a
-                href={PORTFOLIO_DATA.personal.portfolioUrl}
+                href="https://emmanuel-portfolio-theta-ebon.vercel.app/"
                 target="_blank"
                 rel="noreferrer"
                 onMouseEnter={() => sound.playHover()}
